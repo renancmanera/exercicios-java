@@ -1,8 +1,8 @@
-package java;
+package projeto;
 
 import java.util.Scanner;
 
-	public class UrnaEletronica {
+	public class olaMundo {
 	
 		public static void main(String[] args) {
 		
@@ -20,8 +20,6 @@ import java.util.Scanner;
 		
 		System.out.println("Nome Candidato 3");
 		candidato3 = scanner.nextLine();
-		
-		totalVotos = 0;
 		
 		do {
 			
